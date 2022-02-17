@@ -1,0 +1,2 @@
+# MultiThreading_CryptoCurrency_App
+Designed a multi-Threaded Crypto Trading Application. In the crypto market there are a lot of coins that have been listed and operations like updatePrice, buy, sell, and increase Volume can be performed on them. Traders buy and sell coins on a daily basis and maintained a portfolio of every coin they own. Designed a system with appropriate models to represent the data and improved data querying.
